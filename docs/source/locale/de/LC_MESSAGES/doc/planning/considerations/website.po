@@ -1,0 +1,237 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Copyright (C) 2023, Licensed under the Apache License,
+# Version 2.0
+# This file is distributed under the same license as the Zomboid Server
+# Manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Zomboid Server Manager \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-01 17:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/doc/planning/considerations/website.rst:10
+msgid "Website"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:13
+msgid "Design"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:14
+msgid "noch kein Plan"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:19
+msgid "Landingpage"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:22
+msgid "Pubic view"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:24
+msgid "|uncheck| Liste der Server die online sind"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:33
+#: ../../source/doc/planning/considerations/website.rst:52
+#: ../../source/doc/planning/considerations/website.rst:71
+msgid "Server"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:26
+msgid "|uncheck| Ingame Uhrzeit/Datum des Servers"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:27
+msgid "|uncheck| Zeit die im Game vergangen ist"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:28
+msgid "|uncheck| Anzahl Spieler online"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:30
+#: ../../source/doc/planning/considerations/website.rst:49
+#: ../../source/doc/planning/considerations/website.rst:68
+msgid "|uncheck| Online Spieler"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:30
+#: ../../source/doc/planning/considerations/website.rst:33
+#: ../../source/doc/planning/considerations/website.rst:36
+#: ../../source/doc/planning/considerations/website.rst:39
+msgid "|uncheck| Sichtbarkeit: Charakter"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:31
+#: ../../source/doc/planning/considerations/website.rst:34
+#: ../../source/doc/planning/considerations/website.rst:37
+#: ../../source/doc/planning/considerations/website.rst:40
+msgid "|uncheck| Link zu Charakter"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:33
+#: ../../source/doc/planning/considerations/website.rst:52
+#: ../../source/doc/planning/considerations/website.rst:71
+msgid "|uncheck| Letzter gestorbener Charakter"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:36
+#: ../../source/doc/planning/considerations/website.rst:55
+#: ../../source/doc/planning/considerations/website.rst:74
+msgid "|uncheck| Top 3 Charaktere mit den meisten Zombie-kills"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:39
+#: ../../source/doc/planning/considerations/website.rst:58
+#: ../../source/doc/planning/considerations/website.rst:77
+msgid "|uncheck| Top 3 höchstes Fertigkeiten level"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:41
+msgid "|uncheck| Öffentliche News/Informationen"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:44
+msgid "User view"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:58
+msgid "extend public view"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:49
+#: ../../source/doc/planning/considerations/website.rst:52
+#: ../../source/doc/planning/considerations/website.rst:55
+#: ../../source/doc/planning/considerations/website.rst:58
+#: ../../source/doc/planning/considerations/website.rst:68
+#: ../../source/doc/planning/considerations/website.rst:71
+#: ../../source/doc/planning/considerations/website.rst:74
+#: ../../source/doc/planning/considerations/website.rst:77
+msgid "|uncheck| Sichtbarkeit: Charakter und User"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:50
+#: ../../source/doc/planning/considerations/website.rst:53
+#: ../../source/doc/planning/considerations/website.rst:56
+#: ../../source/doc/planning/considerations/website.rst:59
+#: ../../source/doc/planning/considerations/website.rst:69
+#: ../../source/doc/planning/considerations/website.rst:72
+#: ../../source/doc/planning/considerations/website.rst:75
+#: ../../source/doc/planning/considerations/website.rst:78
+msgid "|uncheck| Link zu User"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:60
+msgid "|uncheck| Interne News/Informationen"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:61
+msgid "|uncheck| Nächste Termine/Events"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:64
+msgid "Admin view"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:77
+msgid "extend user view"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:79
+msgid "|uncheck| Neue Tickets"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:80
+msgid "|uncheck| Neue Modvorschläge"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:81
+msgid "|uncheck| Mod Updates"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:86
+msgid "Server page"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:89
+#: ../../source/doc/planning/considerations/website.rst:106
+#: ../../source/doc/planning/considerations/website.rst:123
+msgid "Pubic"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:90
+#: ../../source/doc/planning/considerations/website.rst:94
+#: ../../source/doc/planning/considerations/website.rst:98
+#: ../../source/doc/planning/considerations/website.rst:107
+#: ../../source/doc/planning/considerations/website.rst:111
+#: ../../source/doc/planning/considerations/website.rst:115
+#: ../../source/doc/planning/considerations/website.rst:124
+#: ../../source/doc/planning/considerations/website.rst:128
+#: ../../source/doc/planning/considerations/website.rst:132
+#: ../../source/doc/planning/considerations/website.rst:141
+#: ../../source/doc/planning/considerations/website.rst:145
+#: ../../source/doc/planning/considerations/website.rst:154
+#: ../../source/doc/planning/considerations/website.rst:158
+#: ../../source/doc/planning/considerations/website.rst:167
+#: ../../source/doc/planning/considerations/website.rst:176
+#: ../../source/doc/planning/considerations/website.rst:180
+msgid "|uncheck| fill list"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:93
+#: ../../source/doc/planning/considerations/website.rst:110
+#: ../../source/doc/planning/considerations/website.rst:127
+#: ../../source/doc/planning/considerations/website.rst:140
+#: ../../source/doc/planning/considerations/website.rst:153
+#: ../../source/doc/planning/considerations/website.rst:175
+msgid "User"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:97
+#: ../../source/doc/planning/considerations/website.rst:114
+#: ../../source/doc/planning/considerations/website.rst:131
+#: ../../source/doc/planning/considerations/website.rst:144
+#: ../../source/doc/planning/considerations/website.rst:157
+#: ../../source/doc/planning/considerations/website.rst:166
+#: ../../source/doc/planning/considerations/website.rst:179
+msgid "Admin"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:103
+msgid "Character page"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:120
+msgid "Toplist page"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:137
+msgid "Event page"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:150
+msgid "User control panel"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:163
+msgid "Admin control panel"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/website.rst:172
+msgid "Mod page"
+msgstr ""
+

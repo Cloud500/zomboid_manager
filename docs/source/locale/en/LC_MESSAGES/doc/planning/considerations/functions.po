@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Copyright (C) 2023, Licensed under the Apache License,
+# Version 2.0
+# This file is distributed under the same license as the Zomboid Server
+# Manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Zomboid Server Manager \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-01 17:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/doc/planning/considerations/functions.rst:2
+msgid "Functions"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:5
+msgid "Manager"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:7
+msgid "Verwalte mehrere Server unabhängig ob \"local\" oder auf anderem Server"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:8
+msgid "Verwalten von mehreren Server Configs"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:9
+msgid "Verwalten von mehreren Sandbox Configs"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:10
+msgid "Verwalten von mehreren Spawn regions"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:11
+msgid "Verwalten von mehreren \"Modsets\""
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:12
+msgid "News/Informationen Verwalten"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:13
+msgid "Bug/Ticket System"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:14
+msgid "Prüfen ob das vom Spiel genutzt werden kann"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:18
+msgid "Verwalten der Server per RCRON"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:16
+msgid "Neu Starten"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:17
+msgid "Backup erstellen"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:18
+msgid "User manage"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:19
+msgid "etc."
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:20
+msgid "Syncen der Configs mit dem Server (per REST?)"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:21
+msgid "REST API zur kommunikation mit den Servern"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:24
+msgid "Mods"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:25
+msgid ""
+"Da Workshop Mods mehrere Mods und Maps enthalten können, werden die Mods "
+"Gelistet und nicht die Workshop's bzw. \"primäre\" Tabelle sollte Mod und"
+" nicht Workshop sein."
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:34
+#: ../../source/doc/planning/considerations/functions.rst:44
+msgid "Benötigte Infos"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:29
+msgid "Workshop ID"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:30
+msgid "Mod ID"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:31
+msgid "Name"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:32
+msgid "Abhängige Mods"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:33
+msgid "Link zum Worksop"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:34
+msgid "Thumbnail"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:37
+msgid "Maps"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:38
+msgid ""
+"Wenn wir die Zellen mit auflisten können wir super die Kompatibilität "
+"prüfen und überlappungen finden unf ggf. mit ladereihenfolge korrigieren"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:42
+msgid "Map ID"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:43
+msgid "Zugehöriger Mod"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:44
+msgid "Belegte Zellen"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:49
+msgid "Game server helper"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:51
+msgid "Läuft lokal auf dem Server"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:52
+msgid "REST API zur kommunikation mit dem Manager"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:53
+msgid "Lesen und auswerten von Logs und andern daten des Servers"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:54
+msgid "Senden der Information an den Manager"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:55
+msgid "Empfangen der Informationen vom Manager"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:60
+msgid "Game Mod"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:62
+msgid "Vergeben einer UUID für jeden Charakter"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:63
+msgid "Schreiben der Informationen in die modData Tabelle des Charakters"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:64
+msgid "Regelmäßiges update der Daten welche der helper beobachtet"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:78
+msgid "Charakter Informationen die gesammelt/ausgegeben werden"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:66
+msgid "UUDI"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:67
+msgid "Vorname"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:68
+msgid "Nachname"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:69
+msgid "Geschlecht"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:70
+msgid "Fähigkeiten"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:71
+msgid "Getötete Zombies"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:72
+msgid "Traits"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:73
+msgid "Beruf"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:74
+msgid "Online"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:75
+msgid "Offline"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:76
+msgid "Todesart"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:77
+msgid "❓Ist Zombie geworden"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:78
+msgid "❓Zombie getötet von/durch oder noch am Leben"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:80
+msgid "Events und die daten"
+msgstr ""
+
+#: ../../source/doc/planning/considerations/functions.rst:81
+msgid "tba"
+msgstr ""
+
