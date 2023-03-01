@@ -1,6 +1,11 @@
 Welcome to Zomboid Server Manager documentation!
 ================================================
 
+.. toctree::
+   :maxdepth: 2
+
+   doc/planning/index
+
 Indices and tables
 ==================
 
